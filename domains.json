@@ -1,17 +1,1010 @@
 {
-    "northwestern.edu": null,
-    "mccormick.northwestern.edu": null,
-    "kellogg.northwestern.edu": null,
-    "users.cs.northwestern.edu": null,
-    "it.eecs.northwestern.edu": null,
-    "uchicago.edu": null,
-    "illinois.edu": null,
-    "stevetarzia.com": null,
-    "clocktab.com": null,
-    "auditoryneuroscience.com": null,
-    "asee.org": null,
-    "gradeinflation.com": null,
-    "spacejam.com": null,
-    "pmichaud.com": null,
-    "kli.org": null
+    "youtube.com\n": {
+        "scan_time": 1732651381.280743,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "en.wikipedia.org\n": {
+        "scan_time": 1732651381.280745,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "twitter.com\n": {
+        "scan_time": 1732651381.280746,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "facebook.com\n": {
+        "scan_time": 1732651381.280746,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "amazon.com\n": {
+        "scan_time": 1732651381.280747,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "yelp.com\n": {
+        "scan_time": 1732651381.280747,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "reddit.com\n": {
+        "scan_time": 1732651381.2807481,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "imdb.com\n": {
+        "scan_time": 1732651381.2807481,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "fandom.com\n": {
+        "scan_time": 1732651381.280749,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "pinterest.com\n": {
+        "scan_time": 1732651381.280749,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "tripadvisor.com\n": {
+        "scan_time": 1732651381.28075,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "instagram.com\n": {
+        "scan_time": 1732651381.28075,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "walmart.com\n": {
+        "scan_time": 1732651381.28075,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "northwestern.edu\n": {
+        "scan_time": 1732651381.280751,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "mccormick.northwestern.edu\n": {
+        "scan_time": 1732651381.280751,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "kellogg.northwestern.edu\n": {
+        "scan_time": 1732651381.280751,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "users.cs.northwestern.edu\n": {
+        "scan_time": 1732651381.2807522,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "it.eecs.northwestern.edu\n": {
+        "scan_time": 1732651381.2807522,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "uchicago.edu\n": {
+        "scan_time": 1732651381.280753,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "illinois.edu\n": {
+        "scan_time": 1732651381.280755,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "stevetarzia.com\n": {
+        "scan_time": 1732651381.280755,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "clocktab.com\n": {
+        "scan_time": 1732651381.280755,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "auditoryneuroscience.com\n": {
+        "scan_time": 1732651381.280756,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "asee.org\n": {
+        "scan_time": 1732651381.280756,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "gradeinflation.com\n": {
+        "scan_time": 1732651381.280757,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "spacejam.com\n": {
+        "scan_time": 1732651381.280757,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "pmichaud.com\n": {
+        "scan_time": 1732651381.280758,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    },
+    "kli.org": {
+        "scan_time": 1732651381.280758,
+        "ipv4_addresses": [
+            "192.0.2.1",
+            "198.51.100.1"
+        ],
+        "ipv6_addresses": [
+            "2001:db8::1"
+        ],
+        "http_server": "example-server",
+        "insecure_http": true,
+        "redirect_to_https": false,
+        "htts": false,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.1",
+            "TLSv1.0"
+        ],
+        "root_ca": "Digital Signature Trust Co.",
+        "rdns_names": [
+            "ord37s03 -in-f110.1e100.net",
+            "ord37s03 -in-f14.1e100. net",
+            "ord30s25 -in-f14.1e100.net",
+            "ord30s25 -in-f206.1e100.net",
+            "ord37s07 -in-f14.1e100.net",
+            "ord37s07 -in-f46.1e100.net"
+        ],
+        "rtt_range": [
+            4,
+            20
+        ],
+        "geo_locations": [
+            "Evanston, Illinois, United States",
+            "New York,New York, United States"
+        ]
+    }
 }
