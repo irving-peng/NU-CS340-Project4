@@ -1,0 +1,368 @@
+{
+    "youtube.com": {
+        "scan_time": 1733115265.4449868,
+        "ipv4_addresses": [
+            "142.250.190.46",
+            "156.154.70.1#53",
+            "142.250.191.238",
+            "142.250.191.206",
+            "1.1.1.1#53",
+            "9.9.9.9#53",
+            "64.6.65.6#53",
+            "142.251.16.93",
+            "185.228.168.168#53",
+            "142.251.16.91",
+            "142.251.16.190",
+            "8.8.8.8#53",
+            "142.250.190.14",
+            "77.88.8.7#53",
+            "216.58.211.14",
+            "208.67.222.222#53",
+            "142.250.190.110",
+            "8.26.56.26#53",
+            "142.251.16.136"
+        ],
+        "ipv6_addresses": [
+            "142.250.74.46",
+            "142.250.190.46",
+            "156.154.70.1#53",
+            "142.250.191.238",
+            "142.250.191.206",
+            "1.1.1.1#53",
+            "142.251.167.136",
+            "142.251.167.91",
+            "9.9.9.9#53",
+            "64.6.65.6#53",
+            "185.228.168.168#53",
+            "142.251.167.93",
+            "142.251.167.190",
+            "8.8.8.8#53",
+            "142.250.190.14",
+            "142.250.191.142",
+            "77.88.8.7#53",
+            "208.67.222.222#53",
+            "142.250.190.110",
+            "8.26.56.26#53"
+        ],
+        "http_server": "ESF",
+        "insecure_http": true,
+        "redirect_to_https": true,
+        "hsts": true,
+        "tls_versions": "No yet implemented",
+        "root_ca": null,
+        "rdns_names": [
+            "ord37s33-in-f14.1e100.net",
+            "rdns1.ultradns.net",
+            "ord38s32-in-f14.1e100.net",
+            "ord38s31-in-f14.1e100.net",
+            "one.one.one.one",
+            "dns9.quad9.net",
+            "rec1pubns2.ultradns.net",
+            "bl-in-f93.1e100.net",
+            "family-filter-dns.cleanbrowsing.org",
+            "bl-in-f91.1e100.net",
+            "bl-in-f190.1e100.net",
+            "dns.google",
+            "ord37s32-in-f14.1e100.net",
+            "family.dns.yandex.ru",
+            "muc03s13-in-f14.1e100.net",
+            "dns.sse.cisco.com",
+            "ord37s35-in-f14.1e100.net",
+            "ns1.recursive.dnsbycomodo.com",
+            "bl-in-f136.1e100.net"
+        ],
+        "rtt_range": [
+            5,
+            114
+        ],
+        "geo_locations": [
+            "Unknown, Unknown, United States",
+            "Mountain View, California, United States"
+        ]
+    },
+    "en.wikipedia.org": {
+        "scan_time": 1733115267.182183,
+        "ipv4_addresses": [
+            "77.88.8.7#53",
+            "185.15.59.224",
+            "156.154.70.1#53",
+            "208.80.153.224",
+            "9.9.9.9#53",
+            "208.67.222.222#53",
+            "208.80.154.224",
+            "64.6.65.6#53",
+            "8.26.56.26#53",
+            "1.1.1.1#53",
+            "185.228.168.168#53",
+            "8.8.8.8#53"
+        ],
+        "ipv6_addresses": [
+            "77.88.8.7#53",
+            "185.15.59.224",
+            "156.154.70.1#53",
+            "9.9.9.9#53",
+            "208.67.222.222#53",
+            "208.80.154.224",
+            "64.6.65.6#53",
+            "8.26.56.26#53",
+            "1.1.1.1#53",
+            "185.228.168.168#53",
+            "8.8.8.8#53"
+        ],
+        "http_server": "mw-web.eqiad.main-864bbfd546-bdm8t",
+        "insecure_http": true,
+        "redirect_to_https": true,
+        "hsts": true,
+        "tls_versions": "No yet implemented",
+        "root_ca": "Internet Security Research Group",
+        "rdns_names": [
+            "family.dns.yandex.ru",
+            "text-lb.esams.wikimedia.org",
+            "rdns1.ultradns.net",
+            "text-lb.codfw.wikimedia.org",
+            "dns9.quad9.net",
+            "dns.sse.cisco.com",
+            "text-lb.eqiad.wikimedia.org",
+            "rec1pubns2.ultradns.net",
+            "ns1.recursive.dnsbycomodo.com",
+            "one.one.one.one",
+            "family-filter-dns.cleanbrowsing.org",
+            "dns.google"
+        ],
+        "rtt_range": [
+            25,
+            98
+        ],
+        "geo_locations": [
+            "Unknown, Unknown, United States",
+            "Unknown, Unknown, Netherlands"
+        ]
+    },
+    "twitter.com": {
+        "scan_time": 1733115268.7437801,
+        "ipv4_addresses": [
+            "104.244.42.1",
+            "77.88.8.7#53",
+            "156.154.70.1#53",
+            "104.244.42.129",
+            "104.244.42.65",
+            "9.9.9.9#53",
+            "208.67.222.222#53",
+            "64.6.65.6#53",
+            "104.244.42.193",
+            "8.26.56.26#53",
+            "1.1.1.1#53",
+            "185.228.168.168#53",
+            "8.8.8.8#53"
+        ],
+        "ipv6_addresses": [
+            "104.244.42.1",
+            "77.88.8.7#53",
+            "156.154.70.1#53",
+            "104.244.42.129",
+            "104.244.42.65",
+            "9.9.9.9#53",
+            "208.67.222.222#53",
+            "64.6.65.6#53",
+            "104.244.42.193",
+            "8.26.56.26#53",
+            "1.1.1.1#53",
+            "185.228.168.168#53",
+            "8.8.8.8#53"
+        ],
+        "http_server": "tsa_b",
+        "insecure_http": true,
+        "redirect_to_https": true,
+        "hsts": true,
+        "tls_versions": "No yet implemented",
+        "root_ca": "DigiCert Inc",
+        "rdns_names": [
+            "family.dns.yandex.ru",
+            "rdns1.ultradns.net",
+            "dns9.quad9.net",
+            "dns.sse.cisco.com",
+            "rec1pubns2.ultradns.net",
+            "ns1.recursive.dnsbycomodo.com",
+            "one.one.one.one",
+            "family-filter-dns.cleanbrowsing.org",
+            "dns.google"
+        ],
+        "rtt_range": [
+            18,
+            22
+        ],
+        "geo_locations": [
+            "Unknown, Unknown, United States"
+        ]
+    },
+    "facebook.com": {
+        "scan_time": 1733115270.318982,
+        "ipv4_addresses": [
+            "31.13.66.35",
+            "157.240.254.35",
+            "157.240.249.35",
+            "77.88.8.7#53",
+            "156.154.70.1#53",
+            "157.240.253.35",
+            "9.9.9.9#53",
+            "208.67.222.222#53",
+            "64.6.65.6#53",
+            "8.26.56.26#53",
+            "1.1.1.1#53",
+            "185.228.168.168#53",
+            "8.8.8.8#53"
+        ],
+        "ipv6_addresses": [
+            "31.13.66.35",
+            "157.240.254.35",
+            "157.240.249.35",
+            "77.88.8.7#53",
+            "156.154.70.1#53",
+            "157.240.253.35",
+            "9.9.9.9#53",
+            "208.67.222.222#53",
+            "64.6.65.6#53",
+            "8.26.56.26#53",
+            "1.1.1.1#53",
+            "185.228.168.168#53",
+            "8.8.8.8#53"
+        ],
+        "http_server": null,
+        "insecure_http": true,
+        "redirect_to_https": true,
+        "hsts": true,
+        "tls_versions": "No yet implemented",
+        "root_ca": "DigiCert Inc",
+        "rdns_names": [
+            "edge-star-mini-shv-01-iad3.facebook.com",
+            "edge-star-mini-shv-02-ord5.facebook.com",
+            "edge-star-mini-shv-01-ord5.facebook.com",
+            "family.dns.yandex.ru",
+            "rdns1.ultradns.net",
+            "edge-star-mini-shv-02-fra5.facebook.com",
+            "dns9.quad9.net",
+            "dns.sse.cisco.com",
+            "rec1pubns2.ultradns.net",
+            "ns1.recursive.dnsbycomodo.com",
+            "one.one.one.one",
+            "family-filter-dns.cleanbrowsing.org",
+            "dns.google"
+        ],
+        "rtt_range": [
+            4,
+            106
+        ],
+        "geo_locations": [
+            "Unknown, Unknown, United States",
+            "Unknown, Unknown, Ireland"
+        ]
+    },
+    "amazon.com": {
+        "scan_time": 1733115271.913155,
+        "ipv4_addresses": [
+            "54.239.28.85",
+            "205.251.242.103",
+            "52.94.236.248",
+            "77.88.8.7#53",
+            "156.154.70.1#53",
+            "9.9.9.9#53",
+            "208.67.222.222#53",
+            "64.6.65.6#53",
+            "8.26.56.26#53",
+            "1.1.1.1#53",
+            "185.228.168.168#53",
+            "8.8.8.8#53"
+        ],
+        "ipv6_addresses": [
+            "54.239.28.85",
+            "205.251.242.103",
+            "52.94.236.248",
+            "77.88.8.7#53",
+            "156.154.70.1#53",
+            "9.9.9.9#53",
+            "208.67.222.222#53",
+            "64.6.65.6#53",
+            "8.26.56.26#53",
+            "1.1.1.1#53",
+            "185.228.168.168#53",
+            "8.8.8.8#53"
+        ],
+        "http_server": "Server",
+        "insecure_http": true,
+        "redirect_to_https": true,
+        "hsts": true,
+        "tls_versions": "No yet implemented",
+        "root_ca": "DigiCert Inc",
+        "rdns_names": [
+            "s3-console-us-standard.console.aws.amazon.com",
+            "family.dns.yandex.ru",
+            "rdns1.ultradns.net",
+            "dns9.quad9.net",
+            "dns.sse.cisco.com",
+            "rec1pubns2.ultradns.net",
+            "ns1.recursive.dnsbycomodo.com",
+            "one.one.one.one",
+            "family-filter-dns.cleanbrowsing.org",
+            "dns.google"
+        ],
+        "rtt_range": [
+            23,
+            26
+        ],
+        "geo_locations": [
+            "Ashburn, Virginia, United States"
+        ]
+    },
+    "stevetarzia.com": {
+        "scan_time": 1733115273.3363242,
+        "ipv4_addresses": [
+            "77.88.8.7#53",
+            "156.154.70.1#53",
+            "9.9.9.9#53",
+            "208.67.222.222#53",
+            "64.6.65.6#53",
+            "8.26.56.26#53",
+            "1.1.1.1#53",
+            "185.228.168.168#53",
+            "3.143.61.245",
+            "8.8.8.8#53"
+        ],
+        "ipv6_addresses": [
+            "77.88.8.7#53",
+            "156.154.70.1#53",
+            "9.9.9.9#53",
+            "208.67.222.222#53",
+            "64.6.65.6#53",
+            "8.26.56.26#53",
+            "1.1.1.1#53",
+            "185.228.168.168#53",
+            "3.143.61.245",
+            "8.8.8.8#53"
+        ],
+        "http_server": "Apache/2.4.62 () OpenSSL/1.0.2k-fips PHP/5.4.16",
+        "insecure_http": true,
+        "redirect_to_https": true,
+        "hsts": false,
+        "tls_versions": "No yet implemented",
+        "root_ca": "Internet Security Research Group",
+        "rdns_names": [
+            "family.dns.yandex.ru",
+            "rdns1.ultradns.net",
+            "dns9.quad9.net",
+            "dns.sse.cisco.com",
+            "rec1pubns2.ultradns.net",
+            "ns1.recursive.dnsbycomodo.com",
+            "one.one.one.one",
+            "family-filter-dns.cleanbrowsing.org",
+            "waffles.stevetarzia.com",
+            "dns.google"
+        ],
+        "rtt_range": [
+            15,
+            15
+        ],
+        "geo_locations": [
+            "Columbus, Ohio, United States"
+        ]
+    }
+}
