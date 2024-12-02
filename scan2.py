@@ -58,12 +58,7 @@ def redirect_http(domain):
         else:
             print(f"No HTTPS redirection for {domain}")
             return False
-        
-    except requests.exceptions.ReadTimeout:
-        print(f"Timeout for redirecting {domain}")
-        return False
-        
-    except requests.exceptions.RequestException as e:
+    except requests.exceptions.RequestsWarning as e:
         print(f"Error with redirect {domain} -- {e}")
         return False
 
@@ -130,35 +125,9 @@ def load_resolvers_from_file():
         print("Error with getting file")
         return []
 
-def get_tls_version(domain):
-    tls_versions = {
-        "SSLv2": "ssl2",
-        "SSLv3": "ssl3",
-        "TLSv1.0": "tls1",
-        "TLSv1.1": "tls1_1",
-        "TLSv1.2": "tls1_2",
-        "TLSv1.3": "tls1_3"
-    }
-    all_versions = []
-
-    for version, option in tls_versions.items():
-        try:
-            result = subprocess.check_output(["openssl", "s_client", f"-{option}", "-connect", f"{domain}:443"], stderr = subprocess.STDOUT, timeout= 2, input = b"").decode("utf-8")
-            if "CONNECTED" in result:
-                all_versions.append(version)
-        except subprocess.CalledProcessError as e:
-            print(f"{version} not support {domain} -- {e}")
-        
-        except subprocess.TimeoutExpired:
-            print(f"Time out for verstion for {domain} with {version}")
-        except FileNotFoundError:
-            print("Error: openssl not found")
-            break
-        except Exception as e:
-            print(f"Error testing {domain} with {version} -- {e}")
-
-
-    return all_versions
+def get_tls_versions():
+    #TODO
+    pass
 
 def get_root_ca(domain):
     try:
@@ -272,7 +241,6 @@ def process_domains(input_file, output_file):
         insecure = insecure_http(domain)
         redirect_https = redirect_http(domain)
         hts = get_hts(domain)
-        tls_verions = get_tls_version(domain)
         root_ca = get_root_ca(domain)
         rdns_names = get_rdns_names(ipv4_address)
         rtt_range = get_rtt_range(ipv4_address)
@@ -285,7 +253,7 @@ def process_domains(input_file, output_file):
                                 "insecure_http": insecure,
                                 "redirect_to_https": redirect_https,
                                 "hsts": hts,
-                                "tls_versions": tls_verions,
+                                "tls_versions": "No yet implemented",
                                 "root_ca": root_ca,
                                 "rdns_names":rdns_names,
                                 "rtt_range": rtt_range,
