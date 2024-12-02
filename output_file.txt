@@ -1,0 +1,468 @@
+Domain Summary
+==================================================
+Domain: youtube.com
+  scan_time: 1733116814.464779
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 142.251.16.190, 156.154.70.1#53, 142.251.16.136, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 142.250.190.110, 142.250.191.238, 142.250.191.142, 8.8.8.8#53, 142.250.191.206, 142.251.16.93, 142.250.74.174, 8.26.56.26#53, 142.251.16.91, 64.6.65.6#53
+  ipv6_addresses: 9.9.9.9#53, 142.251.16.190, 77.88.8.7#53, 64.6.65.6#53, 1.1.1.1#53, 142.250.190.78, 142.251.16.136, 185.228.168.168#53, 142.250.190.46, 142.250.191.206, 142.250.74.174, 156.154.70.1#53, 8.26.56.26#53, 208.67.222.222#53, 142.250.191.238, 142.250.191.142, 8.8.8.8#53, 142.251.16.93, 142.251.16.91
+  http_server: ESF
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.0, TLSv1.1, TLSv1.2, TLSv1.3
+  root_ca: None
+  rdns_names: one.one.one.one, dns9.quad9.net, bl-in-f190.1e100.net, rdns1.ultradns.net, bl-in-f136.1e100.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, ord37s35-in-f14.1e100.net, ord38s32-in-f14.1e100.net, ord38s29-in-f14.1e100.net, dns.google, ord38s31-in-f14.1e100.net, bl-in-f93.1e100.net, arn11s12-in-f14.1e100.net, ns1.recursive.dnsbycomodo.com, bl-in-f91.1e100.net, rec1pubns2.ultradns.net
+  rtt_range: 8, 116
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: en.wikipedia.org
+  scan_time: 1733116816.557386
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 185.15.59.224, 208.80.154.224, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 185.15.59.224, 208.80.154.224, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  http_server: mw-web.eqiad.main-864bbfd546-bdm8t
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: Internet Security Research Group
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, text-lb.esams.wikimedia.org, text-lb.eqiad.wikimedia.org, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 33, 106
+  geo_locations: Unknown, Unknown, Netherlands, Unknown, Unknown, United States
+--------------------------------------------------
+Domain: twitter.com
+  scan_time: 1733116818.7168078
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 104.244.42.129, 208.67.222.222#53, 77.88.8.7#53, 104.244.42.1, 104.244.42.65, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 104.244.42.193, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 104.244.42.129, 208.67.222.222#53, 77.88.8.7#53, 104.244.42.1, 104.244.42.65, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 104.244.42.193, 64.6.65.6#53
+  http_server: tsa_b
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: DigiCert Inc
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 19, 23
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: facebook.com
+  scan_time: 1733116820.804502
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 157.240.254.35, 157.240.249.35, 157.240.252.35, 8.8.8.8#53, 31.13.66.35, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 157.240.254.35, 157.240.249.35, 157.240.252.35, 8.8.8.8#53, 31.13.66.35, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  http_server: None
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.0, TLSv1.1, TLSv1.2, TLSv1.3
+  root_ca: DigiCert Inc
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, edge-star-mini-shv-02-ord5.facebook.com, edge-star-mini-shv-01-ord5.facebook.com, edge-star-mini-shv-01-fra3.facebook.com, dns.google, edge-star-mini-shv-01-iad3.facebook.com, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 5, 103
+  geo_locations: Unknown, Unknown, Ireland, Unknown, Unknown, United States
+--------------------------------------------------
+Domain: amazon.com
+  scan_time: 1733116822.3996
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 52.94.236.248, 54.239.28.85, 156.154.70.1#53, 8.26.56.26#53, 205.251.242.103, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 52.94.236.248, 54.239.28.85, 156.154.70.1#53, 8.26.56.26#53, 205.251.242.103, 64.6.65.6#53
+  http_server: Server
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.0, TLSv1.1, TLSv1.2, TLSv1.3
+  root_ca: DigiCert Inc
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, s3-console-us-standard.console.aws.amazon.com, rec1pubns2.ultradns.net
+  rtt_range: 29, 58
+  geo_locations: Ashburn, Virginia, United States
+--------------------------------------------------
+Domain: yelp.com
+  scan_time: 1733116824.574933
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 146.75.84.116, 146.75.120.116, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 146.75.80.116, 8.8.8.8#53, 199.232.36.116, 156.154.70.1#53, 8.26.56.26#53, 146.75.76.116, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 146.75.80.116, 8.8.8.8#53, 199.232.36.116, 151.101.36.116, 156.154.70.1#53, 8.26.56.26#53, 146.75.76.116, 64.6.65.6#53
+  http_server: envoy
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: DigiCert Inc
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 5, 104
+  geo_locations: New York, New York, United States, Unknown, Unknown, Sweden
+--------------------------------------------------
+Domain: reddit.com
+  scan_time: 1733116828.004301
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 208.67.222.222#53, 77.88.8.7#53, 151.101.1.140, 151.101.65.140, 8.8.8.8#53, 151.101.193.140, 156.154.70.1#53, 8.26.56.26#53, 151.101.129.140, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 208.67.222.222#53, 77.88.8.7#53, 151.101.1.140, 151.101.65.140, 8.8.8.8#53, 151.101.193.140, 156.154.70.1#53, 8.26.56.26#53, 151.101.129.140, 64.6.65.6#53
+  http_server: snooserv
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: DigiCert Inc
+  rdns_names: one.one.one.one, dns9.quad9.net, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 5, 10
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: imdb.com
+  scan_time: 1733116830.999247
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 52.94.237.74, 8.8.8.8#53, 52.94.225.248, 156.154.70.1#53, 8.26.56.26#53, 52.94.228.167, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 52.94.237.74, 8.8.8.8#53, 52.94.225.248, 156.154.70.1#53, 8.26.56.26#53, 52.94.228.167, 64.6.65.6#53
+  http_server: Server
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.0, TLSv1.1, TLSv1.2, TLSv1.3
+  root_ca: Amazon
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 32, 36
+  geo_locations: Ashburn, Virginia, United States
+--------------------------------------------------
+Domain: fandom.com
+  scan_time: 1733116833.398877
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 199.232.212.194, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 199.232.208.194, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 199.232.212.194, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 199.232.208.194, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  http_server: envoy
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: GlobalSign
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 6, 8
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: pinterest.com
+  scan_time: 1733116834.525701
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 151.101.0.84, 185.228.168.168#53, 151.101.128.84, 208.67.222.222#53, 77.88.8.7#53, 151.101.192.84, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 151.101.64.84, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 151.101.0.84, 185.228.168.168#53, 151.101.128.84, 208.67.222.222#53, 77.88.8.7#53, 151.101.192.84, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 151.101.64.84, 64.6.65.6#53
+  http_server: None
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: DigiCert Inc
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 5, 7
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: tripadvisor.com
+  scan_time: 1733116836.289363
+  ipv4_addresses: 151.101.130.28, 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 151.101.66.28, 151.101.194.28, 208.67.222.222#53, 77.88.8.7#53, 151.101.2.28, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  ipv6_addresses: 151.101.130.28, 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 151.101.194.28, 151.101.66.28, 208.67.222.222#53, 77.88.8.7#53, 151.101.2.28, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  http_server: envoy
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: GlobalSign
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 6, 17
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: instagram.com
+  scan_time: 1733116837.802201
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 157.240.249.174, 64.6.65.6#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 157.240.252.174, 57.144.174.34, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 31.13.66.174, 157.240.254.174
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 157.240.249.174, 64.6.65.6#53, 185.228.168.168#53, 157.240.253.174, 208.67.222.222#53, 77.88.8.7#53, 57.144.174.34, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 31.13.66.174, 157.240.254.174
+  http_server: None
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.0, TLSv1.1, TLSv1.2, TLSv1.3
+  root_ca: DigiCert Inc
+  rdns_names: one.one.one.one, dns9.quad9.net, instagram-p42-shv-01-ord5.fbcdn.net, rec1pubns2.ultradns.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, instagram-p42-shv-01-fra3.fbcdn.net, instagram-p42-shv-03-ord5.fbcdn.net, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, instagram-p42-shv-01-iad3.fbcdn.net, instagram-p42-shv-02-ord5.fbcdn.net
+  rtt_range: 7, 108
+  geo_locations: Unknown, Unknown, Belgium, Unknown, Unknown, Ireland, Unknown, Unknown, United States
+--------------------------------------------------
+Domain: walmart.com
+  scan_time: 1733116840.1502998
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 23.192.52.163, 208.67.222.222#53, 77.88.8.7#53, 23.220.132.133, 104.76.200.128, 8.8.8.8#53, 184.51.216.146, 156.154.70.1#53, 8.26.56.26#53, 23.59.182.173, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 23.192.52.163, 208.67.222.222#53, 77.88.8.7#53, 69.192.160.127, 23.220.132.133, 8.8.8.8#53, 184.51.216.146, 156.154.70.1#53, 8.26.56.26#53, 23.59.182.173, 64.6.65.6#53
+  http_server: None
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: GlobalSign
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, a23-192-52-163.deploy.static.akamaitechnologies.com, dns.sse.cisco.com, family.dns.yandex.ru, a23-220-132-133.deploy.static.akamaitechnologies.com, a104-76-200-128.deploy.static.akamaitechnologies.com, dns.google, a184-51-216-146.deploy.static.akamaitechnologies.com, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, a23-59-182-173.deploy.static.akamaitechnologies.com, rec1pubns2.ultradns.net
+  rtt_range: 16, 112
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: northwestern.edu
+  scan_time: 1733116842.2593842
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 129.105.136.48, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 129.105.136.48, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  http_server: Apache
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: TLSv1.0, TLSv1.1, TLSv1.2
+  root_ca: The USERTRUST Network
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, evcommon-caesar-vip.northwestern.edu, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 12, 12
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: mccormick.northwestern.edu
+  scan_time: 1733116844.172723
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 165.124.149.20, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 165.124.149.20, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  http_server: Apache/2.4.41 (Ubuntu)
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: TLSv1.2
+  root_ca: The USERTRUST Network
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, davinci20.tech.northwestern.edu, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 6, 6
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: kellogg.northwestern.edu
+  scan_time: 1733116846.0059452
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 165.124.147.150, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 165.124.147.150, 64.6.65.6#53
+  http_server: Microsoft-IIS/10.0
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: TLSv1.2
+  root_ca: The USERTRUST Network
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, www.kellogg.northwestern.edu, rec1pubns2.ultradns.net
+  rtt_range: 7, 7
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: users.cs.northwestern.edu
+  scan_time: 1733116848.000148
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 64.6.65.6#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 129.105.44.20
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 64.6.65.6#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 129.105.44.20
+  http_server: Apache
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: TLSv1.2
+  root_ca: The USERTRUST Network
+  rdns_names: one.one.one.one, dns9.quad9.net, rec1pubns2.ultradns.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, web1.cs.northwestern.edu
+  rtt_range: 12, 12
+  geo_locations: Chicago, Illinois, United States
+--------------------------------------------------
+Domain: it.eecs.northwestern.edu
+  scan_time: 1733116849.5071099
+  ipv4_addresses: 129.105.5.142, 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  ipv6_addresses: 129.105.5.142, 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  http_server: Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k
+  insecure_http: True
+  redirect_to_https: False
+  hsts: False
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: Unspecified
+  rdns_names: it.ece.northwestern.edu, one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 18, 18
+  geo_locations: Chicago, Illinois, United States
+--------------------------------------------------
+Domain: uchicago.edu
+  scan_time: 1733116851.348876
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 3.215.148.80, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 3.215.148.80, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  http_server: None
+  insecure_http: True
+  redirect_to_https: False
+  hsts: False
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: The USERTRUST Network
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, ec2-3-215-148-80.compute-1.amazonaws.com, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 28, 28
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: illinois.edu
+  scan_time: 1733116853.266773
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 64.6.65.6#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 130.126.157.20
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 64.6.65.6#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 130.126.157.20
+  http_server: Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: Internet Security Research Group
+  rdns_names: one.one.one.one, dns9.quad9.net, rec1pubns2.ultradns.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, alma.techservices.illinois.edu
+  rtt_range: 9, 9
+  geo_locations: Champaign, Illinois, United States
+--------------------------------------------------
+Domain: stevetarzia.com
+  scan_time: 1733116854.861613
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 3.143.61.245, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 3.143.61.245, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  http_server: Apache/2.4.62 () OpenSSL/1.0.2k-fips PHP/5.4.16
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: TLSv1.0, TLSv1.1, TLSv1.2
+  root_ca: Internet Security Research Group
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, waffles.stevetarzia.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 14, 14
+  geo_locations: Columbus, Ohio, United States
+--------------------------------------------------
+Domain: clocktab.com
+  scan_time: 1733116856.431136
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 172.67.170.124, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 104.21.87.176, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 172.67.170.124, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 104.21.87.176, 64.6.65.6#53
+  http_server: cloudflare
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: 
+  root_ca: None
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 5, 8
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: auditoryneuroscience.com
+  scan_time: 1733116857.691874
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 203.80.233.62, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 203.80.233.62, 64.6.65.6#53
+  http_server: Apache/2.4.58 (Ubuntu)
+  insecure_http: True
+  redirect_to_https: False
+  hsts: False
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: Internet Security Research Group
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, 203080233062.static.ctinets.com, rec1pubns2.ultradns.net
+  rtt_range: 181, 181
+  geo_locations: Central, Central and Western District, Hong Kong
+--------------------------------------------------
+Domain: asee.org
+  scan_time: 1733116862.515771
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 57.152.51.153, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 57.152.51.153, 64.6.65.6#53
+  http_server: Microsoft-Azure-Application-Gateway/v2
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: The USERTRUST Network
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 28, 28
+  geo_locations: Unknown, Unknown, Belgium
+--------------------------------------------------
+Domain: gradeinflation.com
+  scan_time: 1733116864.579085
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 156.154.70.1#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 51.79.45.180, 8.26.56.26#53, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 156.154.70.1#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 51.79.45.180, 8.26.56.26#53, 64.6.65.6#53
+  http_server: nginx
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: Internet Security Research Group
+  rdns_names: one.one.one.one, dns9.quad9.net, rdns1.ultradns.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, gw1.ahs5.r4l.com, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 31, 31
+  geo_locations: Victoria, British Columbia, Canada
+--------------------------------------------------
+Domain: spacejam.com
+  scan_time: 1733116866.9054232
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 75.2.104.223, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 99.83.180.228, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 75.2.104.223, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 99.83.180.228, 64.6.65.6#53
+  http_server: Apache/2.4.62 () OpenSSL/1.0.2k-fips
+  insecure_http: True
+  redirect_to_https: True
+  hsts: True
+  tls_versions: TLSv1.0, TLSv1.1, TLSv1.2
+  root_ca: GlobalSign
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, a259cf76d74e1f65f.awsglobalaccelerator.com, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, a259cf76d74e1f65f.awsglobalaccelerator.com, rec1pubns2.ultradns.net
+  rtt_range: 12, 20
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: pmichaud.com
+  scan_time: 1733116869.1017568
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 23.254.203.248, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 185.228.168.168#53, 208.67.222.222#53, 77.88.8.7#53, 8.8.8.8#53, 156.154.70.1#53, 8.26.56.26#53, 23.254.203.248, 64.6.65.6#53
+  http_server: Apache
+  insecure_http: True
+  redirect_to_https: False
+  hsts: False
+  tls_versions: TLSv1.2, TLSv1.3
+  root_ca: Internet Security Research Group
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, hwsrv-233708.hostwindsdns.com, rec1pubns2.ultradns.net
+  rtt_range: 25, 25
+  geo_locations: Unknown, Unknown, United States
+--------------------------------------------------
+Domain: kli.org
+  scan_time: 1733116871.464119
+  ipv4_addresses: 1.1.1.1#53, 9.9.9.9#53, 172.67.132.72, 185.228.168.168#53, 188.114.96.1, 208.67.222.222#53, 77.88.8.7#53, 188.114.97.1, 8.8.8.8#53, 104.21.4.169, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  ipv6_addresses: 1.1.1.1#53, 9.9.9.9#53, 172.67.132.72, 185.228.168.168#53, 188.114.96.1, 208.67.222.222#53, 77.88.8.7#53, 188.114.97.1, 8.8.8.8#53, 104.21.4.169, 156.154.70.1#53, 8.26.56.26#53, 64.6.65.6#53
+  http_server: cloudflare
+  insecure_http: True
+  redirect_to_https: True
+  hsts: False
+  tls_versions: 
+  root_ca: None
+  rdns_names: one.one.one.one, dns9.quad9.net, family-filter-dns.cleanbrowsing.org, dns.sse.cisco.com, family.dns.yandex.ru, dns.google, rdns1.ultradns.net, ns1.recursive.dnsbycomodo.com, rec1pubns2.ultradns.net
+  rtt_range: 4, 6
+  geo_locations: Unknown, Unknown, Unknown, Unknown, Unknown, United States
+--------------------------------------------------
+
+RTT Range Table
+Domain                       RTT Range (ms)
+kli.org                      [4, 6]        
+facebook.com                 [5, 103]      
+yelp.com                     [5, 104]      
+reddit.com                   [5, 10]       
+pinterest.com                [5, 7]        
+clocktab.com                 [5, 8]        
+fandom.com                   [6, 8]        
+tripadvisor.com              [6, 17]       
+mccormick.northwestern.edu   [6, 6]        
+instagram.com                [7, 108]      
+kellogg.northwestern.edu     [7, 7]        
+youtube.com                  [8, 116]      
+illinois.edu                 [9, 9]        
+northwestern.edu             [12, 12]      
+users.cs.northwestern.edu    [12, 12]      
+spacejam.com                 [12, 20]      
+stevetarzia.com              [14, 14]      
+walmart.com                  [16, 112]     
+it.eecs.northwestern.edu     [18, 18]      
+twitter.com                  [19, 23]      
+pmichaud.com                 [25, 25]      
+uchicago.edu                 [28, 28]      
+asee.org                     [28, 28]      
+amazon.com                   [29, 58]      
+gradeinflation.com           [31, 31]      
+imdb.com                     [32, 36]      
+en.wikipedia.org             [33, 106]     
+auditoryneuroscience.com     [181, 181]    
+
+Root Certificate Authority Table
+Root Certificate Authority         Occurrences
+DigiCert Inc                       7          
+Internet Security Research Group   6          
+The USERTRUST Network              6          
+GlobalSign                         4          
+Amazon                             1          
+Unspecified                        1          
+
+Web Server Table
+Web Server                                                Occurrences
+envoy                                                     3          
+Apache                                                    3          
+Server                                                    2          
+cloudflare                                                2          
+ESF                                                       1          
+mw-web.eqiad.main-864bbfd546-bdm8t                        1          
+tsa_b                                                     1          
+snooserv                                                  1          
+Apache/2.4.41 (Ubuntu)                                    1          
+Microsoft-IIS/10.0                                        1          
+Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k   1          
+Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7    1          
+Apache/2.4.62 () OpenSSL/1.0.2k-fips PHP/5.4.16           1          
+Apache/2.4.58 (Ubuntu)                                    1          
+Microsoft-Azure-Application-Gateway/v2                    1          
+nginx                                                     1          
+Apache/2.4.62 () OpenSSL/1.0.2k-fips                      1          
+
+TLS Support Table
+TLS Version   Percentage
+TLSv1.0           28.57%
+TLSv1.1           28.57%
+TLSv1.2           92.86%
+TLSv1.3           71.43%
+
+Support Table
+Feature          Percentage
+Plain HTTP          100.00%
+HTTPS Redirect       85.71%
+HSTS                 42.86%
+IPv6 Support        100.00%
